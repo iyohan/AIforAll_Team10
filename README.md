@@ -1,5 +1,7 @@
 # [GEK10109 - 01] 2021 AI for All Team Project (Team 10)
 
+-   발표 동영상 link: https://youtu.be/45GxbJ_kGIg
+
 ## Memebers
 
 -   21600569 이해찬
